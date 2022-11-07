@@ -1,5 +1,9 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
 .jumbotron{
-    background-image: url("../img/jellyfish2.png");
+    background-image: url("../img/sCousteau.png");
     background-position: center;
     min-height: calc(100vh - 56px);
     display: flex;
@@ -7,4 +11,8 @@
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+.jumbotron h1{
+    font-weight: bold;
 }
