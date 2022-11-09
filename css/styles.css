@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    background-color: rgb(254, 252, 252);
 }
 
 .jumbotron{
@@ -77,6 +78,9 @@ body{
 
 .col2{
     min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .col2 img{
@@ -96,6 +100,9 @@ body{
 
 .col3{
     min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .col3 img{
