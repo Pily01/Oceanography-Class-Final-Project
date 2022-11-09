@@ -23,6 +23,7 @@ body{
     padding-bottom: 50px;
 }
 
+
 .card-container{
     display: flex;
     flex-direction: column;
@@ -52,6 +53,34 @@ body{
 }
 
 .card-container .card img{
-    width: 70%;
     align-self: center;
 }
+
+.sub-section{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.col1{
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 50px;
+}
+
+.col1 h1{
+    margin-bottom: 20px;
+}
+
+.col2{
+    min-height: 500px;
+}
+
+.col2 img{
+    height: 500px;
+    align-self: center;
+    border-radius: 20px;
+}
+
