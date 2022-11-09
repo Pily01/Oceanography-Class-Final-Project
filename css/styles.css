@@ -54,6 +54,7 @@ body{
 
 .card-container .card img{
     align-self: center;
+    width: 70%;
 }
 
 .sub-section{
@@ -103,3 +104,17 @@ body{
     border-radius: 20px;
 }
 
+.ekman-container{
+    background-color: rgb(17, 21, 34);
+    color: white;
+}
+
+.ekman-card-body{
+    background-color: rgb(17, 21, 34);
+}
+
+.ekman-img{
+    border-radius: 70px;
+    width: 70%;
+    height: auto;
+}
