@@ -184,3 +184,22 @@ body{
     border-radius: 4px;
 }
 
+.videos-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+.videos-container h5{
+margin-bottom: 50px;
+}
+
+.videos-container h5,
+.videos-container h2{
+    align-self: center;
+}
+.video-subcontainer{
+    max-width: 70%;
+}
