@@ -53,6 +53,17 @@ body{
     border: none;
 }
 
+.info-card{
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: rgb(254, 252, 252);
+    transition: all ease 0.9s;
+}
+.info-card:hover{
+    background-color: rgb(17, 21, 34);
+    color: white;
+}
+
 .card-container .card img{
     align-self: center;
     width: 70%;
