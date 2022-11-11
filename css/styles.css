@@ -152,3 +152,35 @@ body{
     50%  { transform: translate(0, 15px); }
     100%   { transform: translate(0, -0px); }   
 }
+
+.card-container{
+    display: flex;
+    align-items: center;
+}
+
+.carousel-container img{
+    width: 60%;
+    margin: auto;
+}
+
+.carousel-container{
+    color: black;
+    margin-bottom: 50px;
+}
+
+.carousel-inner{
+    background-color: #EEFEFF;
+}
+
+.carousel-caption{
+    color: white;
+    font-weight: bolder;
+    background-color: #111522;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    background-color: #cdcdcd;
+    border-radius: 4px;
+}
+
