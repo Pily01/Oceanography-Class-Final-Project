@@ -57,7 +57,7 @@ body{
     padding-top: 10px;
     border-radius: 20px;
     background-color: rgb(254, 252, 252);
-    transition: all ease 0.9s;
+    transition: all ease 0.3s;
 }
 .info-card:hover{
     background-color: rgb(17, 21, 34);
@@ -201,5 +201,21 @@ margin-bottom: 50px;
     align-self: center;
 }
 .video-subcontainer{
-    max-width: 70%;
+    max-width: 60%;
+    text-align: center;
+}
+
+.embed-responsive{
+    align-self: center;
+}
+
+iframe{
+    padding-top: 10-x;
+    min-height: 200px;
+    width: auto;
+    border-radius: 15px;
+}
+
+.card-video{
+    border: none;
 }
