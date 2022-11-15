@@ -219,3 +219,14 @@ iframe{
 .card-video{
     border: none;
 }
+
+footer{
+    background-color: #111522;
+    color: white;
+    font-size: small;
+}
+
+footer a{
+ text-decoration: none;
+ color: white;
+}
